@@ -3,3 +3,6 @@ opencv-python
 deep_sort_realtime
 torch
 numpy
+torchvision 
+scikit-learn
+easyocr
