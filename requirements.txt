@@ -6,3 +6,7 @@ numpy
 torchvision 
 scikit-learn
 easyocr
+torchreid 
+filterpy 
+tensorboard 
+scipy
