@@ -6,7 +6,7 @@ A robust computer vision system for tracking and re-identifying football players
 
 Check out our system in action! The output video demonstrates successful player tracking and re-identification:
 
-https://github.com/Shine-5705/Player-Tracker/blob/main/distance_based_tracked_video.mp4
+[https://github.com/Shine-5705/Player-Tracker/blob/main/distance_based_tracked_video.mp4](https://github.com/Shine-5705/Player-Tracker/blob/main/distance_based_tracked_video.mp4)
 
 *The demo shows players maintaining consistent IDs even when moving out of frame and reappearing during the goal event.*
 
